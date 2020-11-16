@@ -1,0 +1,106 @@
+@charset "utf-8";
+
+.discord {
+    float: left;
+}
+.ornek{
+    width: 770px;
+    margin:auto;
+    }
+    .sola-kaydir{
+    float:left;
+    padding:0 10px 10px 0;
+    }
+
+#header {
+    width: 800px;
+    height: 100px;
+    background: #cccccc;
+    margin: 0 auto 0 auto;
+    display: table;
+}
+
+#content {
+    margin: 20px auto 20px auto;
+    display: table;
+    width: 770px;
+    height: auto;
+    background: #cccccc;
+    padding: 10px 15px 10px 15px;
+}
+#content h1, #content .sayfabanner {
+    margin: 0px auto 15px auto;
+    display: table;
+    height: auto;
+}
+#content .yazialani p {
+    font-size: 14px;
+}
+#footer {
+    width: 770px;
+    height: 20px;
+    background: #ccc;
+    margin: 0 auto 0 auto;
+    display: table;
+    padding: 10px 15px 10px 15px;
+}
+#footer p{
+    text-align: center;
+    font-size: 11px;
+    font-weight: bold;
+}
+.websitesilogo {
+    margin: 15px auto 15px auto;
+    display: table;
+    width: 200px;
+    height: auto;
+}
+
+.menu {
+    margin: 20 auto 40px auto;
+    display: table;
+}
+
+.menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 15px;
+    border: 1px solid #000000;
+    padding: 5px 10px;
+}
+
+.menu li a {
+    color: #000000;
+    font-size: 18px ;
+    text-decoration: none;
+
+}
+
+.menu li a:hover {
+    color: red;
+    border: 1px solid red;
+}
+
+.galeri{
+ margin: 0 auto 0 auto;
+ display: table;
+}
+
+.galeri .fotograf {
+    float: left;
+ width: 150px;
+ height: auto;
+ border: 1px solid #000000;
+ padding: 5px 5px 5px 5px;
+ background: #007ce7;
+ margin: 0 15px 15px 15px;      
+}
+.galeri .fotograf img {
+    width: 100%;
+    height: auto;
+}
+
+.secili {
+    color: #f00 !important;
+    border: 1px solid #f00 !important;
+}
